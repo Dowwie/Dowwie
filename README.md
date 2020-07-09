@@ -1,1 +1,1 @@
-![image title](darin_denali_2017.jpg)
+![](darin_denali_2017.jpg)
