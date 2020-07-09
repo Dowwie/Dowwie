@@ -4,13 +4,14 @@
 
 Hi! I'm Darin.
 
-I've spent many years navigating unfamiliar territory, acquiring the skills and expertise required to lead.  I do not seek comfortable, familiar opportunities that I am good at but those of great challenge, opportunity, and growth.  I am the founder of a real-estate/property tech venture that I’d love to talk with you about!  We can build the future together.
+I've spent many years navigating unfamiliar territory, acquiring the skills and expertise required to lead.  I do not seek comfortable, familiar opportunities that I am good at but those of great challenge, opportunity, and growth.  I am the founder of a real-estate/property tech venture that I’d love to talk with you about!  We can build the future together, with Rust and Python!
 
-My dog's name is Denali.  She's a german wirehaired pointer.  Her favorite programming languages are Rust and Python.
+My dog's name is Denali.  She's a german wirehaired pointer.
 
 
 # Open Source Contributions 
 
+<img src="/YosaiProject/yosai/blob/master/doc/docs/img/yosai_logo_with_title.png " alt="yosai" title="Yosai" width="120" height="90" />
 * [Yosai](https://github.com/YosaiProject/yosai) (Author):  Yosai is a security framework, written in Python, based on Apache Shiro, written in Java, featuring two- factor authentication, permission and role level authorization, and session management: [Project Page](https://yosaiproject.github.io/yosai).  Yosai was presented at several conferences, including PyGotham 2015 and PyCon 2017 (Poster Session), and on the ["Python Podcast __Init__" podcast show (Episode 120](https://bit.ly/2ZefKUA).
 
 
