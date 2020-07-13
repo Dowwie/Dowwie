@@ -4,7 +4,7 @@
 
 Hi! I'm Darin.
 
-I've spent many years navigating unfamiliar territory, taking on great challenges and excelling. I do not seek comfortable, familiar opportunities that I am good at but those of great challenge, opportunity, and growth.  I'm founding a real-estate/property tech venture that I’d love to talk with you about!
+I've spent many years navigating unfamiliar territory, taking on great challenges and excelling. I do not seek comfortable, familiar opportunities that I am good at but those of great challenge, opportunity, and growth.
 
 My dog's name is Denali.  She's a german wirehaired pointer.
 
