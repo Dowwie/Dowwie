@@ -1,6 +1,6 @@
 # Intro 
 
-Hi! I'm Darin.
+Hey, I'm Darin. https://www.linkedin.com/in/darinkgordon/
 
 
 # Open Source Contributions 
