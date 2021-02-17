@@ -1,7 +1,7 @@
 # Intro 
 
 Hey, I'm Darin. https://www.linkedin.com/in/darinkgordon/
-
+![:photo:](https://github.com/Dowwie/Dowwie/blob/master/darin_denali_2017.jpg)
 
 # Open Source Contributions 
 
